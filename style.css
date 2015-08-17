@@ -1,0 +1,132 @@
+.email-background {
+  background-color: #eee;
+  padding: 10px;
+}
+.pre-header {
+  font-size: 5px;
+  color: #eee;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 0.3;
+}
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 5px;
+  font-family: sans-serif;
+  overflow: hidden;
+  font-size: 16px;
+}
+p.inBrowser {
+  text-align: center;
+  line-height: normal;
+}
+a.inBrowser {
+  text-align: center;
+  font-size: 14px;
+  color: #3D87F5;
+  text-decoration: underline;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+p {
+  margin: 0;
+  line-height: 1.5;
+  font-size: 18px;
+}
+p.lead {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 600;
+}
+.cta {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  background: #333;
+  padding: 10px 20px;
+  margin: 20px 0;
+  display: inline-block;
+}
+.header h1 {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  margin: 0;
+  padding: 20px;
+  font-weight: 300;
+  letter-spacing: 3px;
+}
+.header h1 span {
+  font-weight: 600;
+}
+.header p#coupon {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 5px 0;
+}
+.header p#coupon span {
+  font-weight: 600;
+}
+.header .social-media {
+  text-align: right;
+  padding: 5px;
+}
+.header .social-media img {
+  width: 20px;
+}
+.section1 {
+  background: url(footer_lodyas.jpg);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 18px;
+}
+.section1 p.lead{
+  font-weight: 600;
+}
+.section2 {
+  background: url(sneakers.jpg) no-repeat center top;
+  background-size: 100% 100%;
+  height: 320px;
+  padding: 20px;
+  border-bottom: 5px solid #333;
+}
+.section2 p,
+.section3 p,
+.section4 p {
+  max-width: 300px;
+}
+.section3 {
+  background: url(boots.jpg) no-repeat center bottom;
+  background-size: 100% 100%;
+  height: 320px;
+  padding: 20px;
+  text-align: right;
+  border-bottom: 5px solid #333;
+}
+.section3 p {
+  color: white;
+  float: right;
+  clear: both;
+}
+.section4 {
+  background: url(heels.jpg) no-repeat center;
+  background-size: 100% 100%;
+  height: 320px;
+  padding: 20px;
+}
+.section5 {
+  margin: 20px 0;
+  text-align: center;
+}
+.section5 p {
+  font-size: 12px;
+  padding: 5px 0;
+}
+.section5 a {
+  color: #444;
+}
